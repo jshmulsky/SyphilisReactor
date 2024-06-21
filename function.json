@@ -1,47 +1,19 @@
 {
-    "RiskData": {
-        "REACTOR_DISPOSITION": "PENDING"
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "post"
+      ]
     },
-    "Investigations": [
-        {
-            "Test": "22461-8",
-            "SpecimenDate": "20230407",
-            "SpecimenSource": "BLOOD SPECIMEN",
-            "Result": "11214006",
-            "ResultValue": "REACTIVE"
-        },
-        {
-            "Test": "31147-2",
-            "SpecimenDate": "20230407",
-            "SpecimenSource": "BLOOD SPECIMEN",
-            "Result": "A",
-            "ResultValue": "1:2"
-        },
-        {
-            "Test": "47236-5",
-            "SpecimenDate": "20220124",
-            "SpecimenSource": "BLOOD SPECIMEN",
-            "Result": "250510009",
-            "ResultValue": "SYPHILIS ANTIBODY TITER MEASUREMENT"
-        },
-        {
-            "Test": "22461-8",
-            "SpecimenDate": "20220124",
-            "SpecimenSource": "BLOOD SPECIMEN",
-            "Result": "11214006",
-            "ResultValue": "REACTIVE"
-        },
-        {
-            "Test": "31147-2",
-            "SpecimenDate": "20220124",
-            "SpecimenSource": "BLOOD SPECIMEN",
-            "Result": "A",
-            "ResultValue": "1:4"
-        }
-    ],
-    "Dispositions": [
-        "PREVIOUSLY_TREATED",
-    ],
-    "Age": "1",
-    "Gender": "Male"
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "$return"
+    }
+  ]
 }
