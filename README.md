@@ -261,3 +261,14 @@ The Syphilis Algorithm is a Python code that processes an input JSON and applies
 ## Code Execution
 
 The code defines various functions that are used to process an input JSON and apply a set of rules to determine the appropriate action based on the test results. The `process` function is called with the input JSON and code configuration as arguments to initiate the processing of the data. The function checks various conditions and returns a tuple with the determined action and an appropriate message based on the conditions.
+
+## Thank you
+
+This project was made possible through the efforts of many people. 
+
+| Name              |
+| ----------------- | 
+| Anne Bergman      | 
+| Saugat Karki      | 
+| Alejandro Perez   | 
+| James Matthias    |
