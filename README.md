@@ -1,6 +1,6 @@
 # Algorithm Definition
 
-
+![alt text](https://github.com/jshmulsky/SyphilisReactor/blob/main/Reactor-Flowchart.jpg?raw=true)
 
 # Code Documentation
 
