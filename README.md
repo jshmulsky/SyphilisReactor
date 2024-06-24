@@ -1,3 +1,6 @@
+## Author
+- [John Shmulsky](https://github.com/jshmulsky)
+
 # Algorithm Definition
 
 ![alt text](https://github.com/jshmulsky/SyphilisReactor/blob/main/Reactor-Flowchart.jpg?raw=true)
