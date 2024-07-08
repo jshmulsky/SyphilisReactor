@@ -275,3 +275,5 @@ This project was made possible through the efforts of many people.
 | Saugat Karki      | 
 | Alejandro Perez   | 
 | James Matthias    |
+| Robin Hennessy    |
+| Tom Peterman      |
